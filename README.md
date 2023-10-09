@@ -6,6 +6,8 @@ RESTful WebAPI serves for Ratours.
 
 ## Architecture
 
+![Ratours](https://public-bucket-ryan1329.s3.ap-northeast-2.amazonaws.com/wilmon/ratours+(1).png 'Ratours')
+
 ```
 - src
   - models
